@@ -41,6 +41,7 @@ CNN의 공간적 특징 학습력과 트랜스포머의 글로벌 컨텍스트 �
 
 #### ◾ 예시 네트워크 흐름
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c9707f44-f8af-4414-9cab-882f09947bde" />
 
 
 ---
@@ -130,6 +131,7 @@ return out
 ---
 
 ## 6. 도식적 구조 흐름 요약
+
 
 
 ---
