@@ -44,7 +44,8 @@
 
 ## 5. 아키텍처 다이어그램
 
-![YOLO11 Architecture](./assets/yolo11_overview_diagram.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/83119250-e4ca-4a33-bea9-d03d08d0da30" />
+
 <sub>※ 그림: Backbone, Neck, Head의 계층별 흐름 및 주요 연결</sub>
 
 ---
