@@ -36,7 +36,8 @@ YOLO V11은 뛰어난 실시간성, 일반화 성능, 경량 아키텍처를 기
 
 ---
 
-![YOLO V11 실전 적용 사례: 스마트 시티 CCTV, 공장 라인, 자율주행 대시캠, 의료 현미경 영상 등 다양한 실제 입력 이미지와 바운딩 박스 결과 시각화]
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a71a1187-8354-4418-ac73-44696ada85a5" />
+
 
 ---
 
