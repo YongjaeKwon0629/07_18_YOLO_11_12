@@ -13,16 +13,16 @@
     - Neck/Feature Aggregation
     - Detection Head 및 Output Layer
 - [학습 방법 및 Loss Function](./YOLO11_Training_Strategy.md)
-    - [Data Augmentation 기법](./YOLO11_Training_DataAugmentation.md)
-    - [Anchor Box/Free Anchor 전략](./YOLO11_Training_Anchor.md)
-    - [정규화/Regularization 기법](./YOLO11_Training_Regularization.md)
+    - Data Augmentation 기법
+    - Anchor Box/Free Anchor 전략
+    - 정규화/Regularization 기법
 - [성능 벤치마크 및 실험 결과](./YOLO11_Benchmark.md)
-    - [COCO 및 Open Dataset 성능](./YOLO11_Benchmark_Coco.md)
-    - [속도-정확도 트레이드오프](./YOLO11_Benchmark_Tradeoff.md)
-    - [Ablation Study](./YOLO11_Benchmark_Ablation.md)
+    - COCO 및 Open Dataset 성능
+    - 속도-정확도 트레이드오프
+    - [Ablation Study
 - [적용 사례 및 한계점 분석](./YOLO11_Applications.md)
-    - [실환경 배포 사례](./YOLO11_Applications_Deployment.md)
-    - [실패 원인 & 개선점](./YOLO11_Applications_Limitations.md)
+    - 실환경 배포 사례
+    - 실패 원인 & 개선점
 
 ---
 
