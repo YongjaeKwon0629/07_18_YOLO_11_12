@@ -19,7 +19,7 @@
 - [성능 벤치마크 및 실험 결과](./YOLO11_Benchmark.md)
     - COCO 및 Open Dataset 성능
     - 속도-정확도 트레이드오프
-    - [Ablation Study
+    - Ablation Study
 - [적용 사례 및 한계점 분석](./YOLO11_Applications.md)
     - 실환경 배포 사례
     - 실패 원인 & 개선점
@@ -29,20 +29,20 @@
 ### 🚀 YOLO 12
 - [개요 및 핵심 기술 발전](./YOLO12_Overview.md)
 - [혁신적인 아키텍처 설계](./YOLO12_Architecture.md)
-    - [Transformer/Attention 기반 모듈](./YOLO12_Architecture_Attention.md)
-    - [Multi-Scale Feature Fusion](./YOLO12_Architecture_MultiScale.md)
-    - [Head 구조 개량점](./YOLO12_Architecture_AdvancedHead.md)
+    - Transformer/Attention 기반 모듈
+    - Multi-Scale Feature Fusion
+    - Head 구조 개량점
 - [학습 및 최적화 전략](./YOLO12_Training_Strategy.md)
-    - [Self-supervision/Pre-training](./YOLO12_Training_SelfSupervised.md)
-    - [Hyperparameter Tuning 사례](./YOLO12_Training_Hyperparameters.md)
-    - [효과적인 학습 스케줄링](./YOLO12_Training_Scheduling.md)
+    - Self-supervision/Pre-training
+    - Hyperparameter Tuning 사례
+    - 효과적인 학습 스케줄링
 - [정량적 성능 평가](./YOLO12_Benchmark.md)
-    - [다중 데이터셋 비교 분석](./YOLO12_Benchmark_Dataset.md)
-    - [추론 속도 및 메모리 사용](./YOLO12_Benchmark_Inference.md)
-    - [Ablation & ablation study](./YOLO12_Benchmark_Ablation.md)
+    - 다중 데이터셋 비교 분석
+    - 추론 속도 및 메모리 사용
+    - Ablation & ablation study
 - [실제 응용 및 한계점](./YOLO12_Applications.md)
-    - [산업별 적용 사례](./YOLO12_Applications_Industry.md)
-    - [미래 과제 및 오픈 이슈](./YOLO12_Applications_Future.md)
+    - 산업별 적용 사례
+    - 미래 과제 및 오픈 이슈
 
 ---
 
