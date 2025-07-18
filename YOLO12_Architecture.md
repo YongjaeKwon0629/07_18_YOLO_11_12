@@ -2,13 +2,10 @@
 
 ---
 
-<div align="center">
+![Architecture Icon](https://img.icons8.com/color/96/structure.png)
 
-<img src="https://img.icons8.com/color/96/structure.png" width="70" alt="Architecture Icon"/>
-<br>
-<b style="font-size:1.2em;">Attention & Transformer 기반 초실시간 객체 탐지 네트워크의 혁신적 설계</b>
+## Attention & Transformer 기반 초실시간 객체 탐지 네트워크의 혁신적 설계
 
-</div>
 
 ---
 
