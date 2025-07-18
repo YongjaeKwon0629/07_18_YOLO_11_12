@@ -9,9 +9,9 @@
 ### 🦾 YOLO 11
 - [개요 및 주요 목표](./YOLO11_Overview.md)
 - [네트워크 아키텍처 상세 분석](./YOLO11_Architecture.md)
-    - [Backbone 구조](./YOLO11_Architecture_Backbone.md)
-    - [Neck/Feature Aggregation](./YOLO11_Architecture_Neck.md)
-    - [Detection Head 및 Output Layer](./YOLO11_Architecture_Head.md)
+    - Backbone 구조
+    - Neck/Feature Aggregation
+    - Detection Head 및 Output Layer
 - [학습 방법 및 Loss Function](./YOLO11_Training_Strategy.md)
     - [Data Augmentation 기법](./YOLO11_Training_DataAugmentation.md)
     - [Anchor Box/Free Anchor 전략](./YOLO11_Training_Anchor.md)
