@@ -132,6 +132,7 @@ return out
 
 ## 6. 도식적 구조 흐름 요약
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f1c8abe1-c003-46bd-9969-a5fdcca4926b" />
 
 
 ---
