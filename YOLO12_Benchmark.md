@@ -65,7 +65,8 @@ Ablation Study는 구조별·기능별 모듈(예: Transformer, Attention, Multi
 YOLO V12에서 주요 아키텍처 모듈을 비활성화했을 때 전체 탐지 성능(mAP)이 얼마나 감소하는지 정량적으로 분석한 결과를 바 차트로 시각화했습니다.
 이 바차트는 각 구조 요소의 실제 영향력을 직관적으로 파악할 수 있어, 구조 최적화와 선택적 경량화 판단에 명확한 근거를 제공합니다.
 <img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/351e120c-067f-4435-b6de-e4ddff7d4948" />
-#### 해설 및 시사점
+### 해설 및 시사점
+
 -  **Transformer module** 비활성화 시 mAP가 **4.5%** 감소해, 글로벌 컨텍스트 학습의 가치가 뚜렷하게 드러남
 
 -  **Multi-scale fusion** 제거 시 **3.7%** 감소, 다양한 크기의 객체 동시 인식에 매우 중요한 역할을 함
